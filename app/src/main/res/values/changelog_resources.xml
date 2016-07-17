@@ -9,28 +9,41 @@
     This order is how they will appear in the dialog
     Make any order you want from top to bottom-->
     <string-array name="changelog_items">
-        <item>Some changelog thing lkjh l lkjh slkjh lkjh s,mnb lkjhs lkjh poiuy slkjh</item>
-        <item>Another changelog thing ;lkj d;lkj ;lkjs ;lkj ;lkj s;lkj ;lkj s;lkj ;lkj ;lks ;lkj ;lkj</item>
-        <item>Some more changelog things</item>
-        <item>Some even more changelog thing</item>
-        <item>And another changelog thing ;lsj; lkjs ;lkj ; lkj;lsjk ;sklj s;lkj s;lk js;lkj s;lkj</item>
-        <item>How many changelog things</item>
-        <item>What a long changelog!!!</item>
-        <item>Is it twenty already?</item>
-        <item>Are we there yet?</item>
-        <item>Live long and prosper</item>
-        <item>So say we all</item>
-        <item>Patience you must have</item>
-        <item>Great scot!!!</item>
-        <item>No disassemble…</item>
-        <item>Almost there</item>
-        <item>Done with changelog</item>
+        <item>BASED ON NEW APFG FIRMWARE</item>
+        <item>ALL MOD FROM PREVIOUS VERSION</item>
+        <item>REDUCED SIZE OF ROM</item>
+        <item>A LOTS OF MOD MOVED IN Ks7 app</item>
+        <item>REMOVED SOME CSC AND ADDED TO Ks7 app</item>
+        <item>ADD Ks7 Trial</item>
+        <item>ADD Viper4A + Dolby atmos in SDCARD</item>
+        <item>ADD BetterBatteryStats</item>
+        <item>ADD OUTDOOR MODE</item>
+        <item>ADD SETTING COLUMS NUMBER IN KING MOD</item>
+        <item>ADD SUPERSU IN SETTINGS</item>
+        <item>ADD TOOLBOX IN SETTINGS</item>
+        <item>ADD TOUCHWIZ TRANSITION EFFECT IN KING MOD</item>
+        <item>ADD NUMBER OF TOGGLE SCROLLABLE IN KING MOD</item>
+        <item>ADD A LOTS OF TOGGLE</item>
+        <item>ADD QUICK LAUNCHER IN RECENTS CHECKABLE</item>
+        <item>ADD 20 TOOGGLE SCROLLABLE IN QS PANEL</item>
+        <item>REMOVED LOCKSCREEN INFO TEXT</item>
+        <item>REMOVED LOW BATTERY WARNING</item>
+        <item>REMOVED CLOCK MOD IN LOCKSCREEN</item>
+        <item>UPDATE POTATO CLOCK</item>
+        <item>UPDATE 3MINIT BATTERY</item>
+        <item>UPDATE SuperSU v2.76</item>
+        <item>UPDATE Dual Speaker v17</item>
+        <item>UPDATE Jesse Kernel v1.3</item>
+        <item>UPDATE SMusic</item>
+        <item>UPDATE Telegram</item>
+        <item>MORE BATTERY EFFICIENCY</item>
+        <item>AND MUCH MORE TWEAKS</item>
     </string-array>
 
     <!--This will be the dialog title.
     Put your own rom version and name.
     Have fun-->
-    <string name="rom_version_for_changelog">build v1.0 6thgearrom</string>
+    <string name="rom_version_for_changelog">KING ROM S7 EDGE V8</string>
 
 
 </resources>

@@ -12,7 +12,7 @@
     <!--You should have received a copy of the GNU General Public License-->
     <!--along with this program.  If not, see <http://www.gnu.org/licenses/>.*/-->
 <resources>
-    <string name="app_name">Rom Control</string>
+    <string name="app_name">KING MOD</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
@@ -46,7 +46,10 @@
     <string name="restore_complete_toast">Restore complete</string>
     <string name="systemui_prefs">SystemUI prefs</string>
     <string name="phone_prefs">Phone prefs</string>
+    <string name="systemui">SystemUI</string>
+    <string name="phone">Phone</string>
     <string name="framework_prefs">Framework prefs</string>
+    <string name="lockscreen">Lockscreen</string>
     <string name="notification_panel_prefs">Notification panel prefs</string>
     <string name="more_options">More options</string>
     <string name="set_theme">Set theme</string>
@@ -64,4 +67,94 @@
     <string name="imminent_reboot_warning">Your device will reboot IMMEDIATELY upon script completion!!!</string>
 
     <!--These strings are to set the default fragment to open for the first time the app launches-->
+
+		<string-array name="nav_drawer_items">
+        <item>SystemUI Mods</item>
+        <item>Phone Mods</item>
+        <item>Framework and General</item>
+        <item>Lockscreen Mods</item>
+        <item>Useful Apps</item>
+        <item>Set Theme</item>
+    </string-array>
+    <string-array name="clock_position_entries">
+        <item>Right clock</item>
+        <item>Center Clock</item>
+        <item>Left Clock</item>
+    </string-array>
+    <string-array name="clock_position_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="some_entries">
+        <item>Right clock</item>
+        <item>Center Clock</item>
+        <item>Left Clock</item>
+    </string-array>
+    <string-array name="some_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string name="missing_su">Your device is either not rooted or the app was denied root permissions.\n\nPlease check your root/su status and try again later.</string>
+    <string name="exit">Exit App</string>
+    <string name="gaining_root">Acquiring root access. Please wait...</string>
+    <string name="missing_su_title">Could not get root access</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="theme_chooser_dialog_title">Choose Theme</string>
+    <string name="app_reboot_required_title">App Reboot Required</string>
+    <string name="app_reboot_required_message">%1$s reboot is required for the changes to take effect.\n\nReboot now?</string>
+
+    <string-array name="lockscreen_notif_entries">
+        <item>2 max shown</item>
+        <item>3 (Stock)</item>
+        <item>4 max shown</item>
+        <item>5 max shown</item>
+    </string-array>
+    <string-array name="lockscreen_notif_values">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="toggle_entries">
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="toggle_values">
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="tw_effect_entries">
+        <item>None</item>
+        <item>Cascade</item>
+        <item>Outer cube</item>
+        <item>Inner Cube</item>
+        <item>Carousal</item>
+        <item>Plain</item>
+        <item>Conveyor</item>
+        <item>Card</item>
+    </string-array>
+    <string-array name="tw_effect_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
 </resources>
