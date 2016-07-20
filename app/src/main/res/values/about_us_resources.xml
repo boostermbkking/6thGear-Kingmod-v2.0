@@ -56,27 +56,37 @@
 
     <!--Credits and thanks info arrays-->
     <array name="about_credits_drawables">
-        <!--<item>@drawable/icon_1</item>
-        <item>@drawable/icon_3</item>
-        <item>@drawable/icon_4</item>
-        <item>@drawable/icon_2</item>
-        <item>@drawable/icon_6</item>-->
-        <item>@drawable/icon_5</item>
+        <item>@drawable/xdauser</item>
+        <item>@drawable/xdauser</item>
+        <item>@drawable/xdauser</item>
+        <item>@drawable/xdauser</item>
+        <item>@drawable/xdauser</item>
+        <item>@drawable/xdauser</item>
+        <item>@drawable/xdauser</item>
     </array>
     <string-array name="about_credits_names">
-        <item>Star Trek - for being ultimately better than Star Wars</item>
-        <!--<item>Jean-Luc Picard - for making us crave hot earl-grey tea even in the middle of the summer</item>
-        <item>Data - for running on the best rom. Google, we still are waiting for THAT android version</item>
-        <item>Janeway - for being a normal person and drinking black coffee</item>
-        <item>Q - for reminding us that you can live forever and still look great</item>
-        <item>Worf - for teaching us to love Klingons. It was NOT easy</item>-->
+        <item>Chainfire - for SuperSU</item>
+        <item>Superr - for Kitchen</item>
+        <item>Daxgirl - for Rom Control</item>
+        <item>wuby986 - for Rom Control</item>
+        <item>Svadev - for Deodex tool</item>
+        <item>Zubi182 - for Dual Speaker Mod</item>
+        <item>Modaco - for Ota Updater</item>
+        <!--<item>Zubi182 - for Dual Speaker Mod</item>
+        <item>Zubi182 - for Dual Speaker Mod</item>
+        <item>Zubi182 - for Dual Speaker Mod</item>
+        <item>Zubi182 - for Dual Speaker Mod</item>
+        <item>Zubi182 - for Dual Speaker Mod</item>
+        <item>Zubi182 - for Dual Speaker Mod</item>
+        <item>Zubi182 - for Dual Speaker Mod</item>-->
     </string-array>
     <string-array name="about_credits_links" translatable="false">
-        <item>https://www.google.com/</item>
-        <!--<item>https://www.google.com/</item>
-        <item>http://forum.xda-developers.com/</item>
-        <item>https://www.facebook.com/</item>
-        <item>https://www.google.com/</item>
-        <item>http://forum.xda-developers.com/</item>-->
+        <item>http://forum.xda-developers.com/member.php?u=631273</item>
+        <item>http://forum.xda-developers.com/member.php?u=5787964</item>
+        <item>http://forum.xda-developers.com/member.php?u=4714483</item>
+        <item>http://forum.xda-developers.com/member.php?u=5493353</item>
+        <item>http://forum.xda-developers.com/member.php?u=6242674</item>
+        <item>http://forum.xda-developers.com/member.php?u=4415982</item>
+        <item>http://forum.xda-developers.com/member.php?u=4734679</item>
     </string-array>
 </resources>
