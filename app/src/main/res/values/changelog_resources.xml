@@ -9,18 +9,21 @@
     This order is how they will appear in the dialog
     Make any order you want from top to bottom-->
     <string-array name="changelog_items">
+        <item>BASED ON NEW APG6 FIRMWARE</item>
         <item>ADD POTATO GRADIENT</item>
         <item>UPDATE KING MOD</item>
         <item>UPDATE POTATO CLOCK</item>
+        <item>UPDATE XPOSED FRAMEWORK V86</item>
         <item>ALL APPs FOR ROM MANAGER MOVED TO KING MOD</item>
-        <item>ADD XTREME MUSIC</item>
+        <item>ADD DOLBY ATMOS and VIPER4Android IN AROMA</item>
+        <item>REMOVED TELEGRAM</item>
         <item>ALL MOD FROM PREVIOUS VERSION</item>
     </string-array>
 
     <!--This will be the dialog title.
     Put your own rom version and name.
     Have fun-->
-    <string name="rom_version_for_changelog">KING ROM S7 EDGE V9.1</string>
+    <string name="rom_version_for_changelog">KING ROM S7 EDGE V10</string>
 
 
 </resources>
