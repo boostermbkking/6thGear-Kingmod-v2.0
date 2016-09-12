@@ -27,6 +27,10 @@
         <!--<item>@drawable/ic_system_ui</item>
         <item>@drawable/ic_phone</item>-->
         <item>@drawable/ic_system_ui</item>
+        <item>@drawable/ic_notification_panel</item>
+        <item>@drawable/ic_sett</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_recent</item>
         <item>@drawable/ic_phone</item>
         <item>@drawable/ic_framework</item>
         <item>@drawable/ic_notification_panel</item>
@@ -41,6 +45,10 @@
         <!--<item>@string/systemui_prefs</item>
         <item>@string/phone_prefs</item>-->
         <item>@string/systemui</item>
+        <item>@string/statusbar</item>
+        <item>@string/secsetting</item>
+        <item>@string/touchwiz</item>
+        <item>@string/recents</item>
         <item>@string/phone</item>
         <item>@string/framework_prefs</item>
         <item>@string/lockscreen</item>
@@ -56,6 +64,10 @@
         <!--<item>ui_prefs</item>
         <item>phone_prefs</item>-->
         <item>systemui</item>
+        <item>statusbar</item>
+        <item>settings</item>
+        <item>touchwiz</item>
+        <item>recent</item>
         <item>phone</item>
         <item>frameworks</item>
         <item>lockscreen</item>
