@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!--<PreferenceScreen
+        android:key="com.android.settings.Settings"
+        android:summary="Opens your device Settings"
+        android:title="Open Settings" />
+    <com.wubydax.romcontrol.v2.prefs.OpenAppPreference
+        android:summary="Application to browse your files, including root files"
+        app:componentName="com.three.minit.minitbatterysettings.free/com.three.minit.minitbatterysettings.MainActivity"/>
+    <com.wubydax.romcontrol.v2.prefs.OpenAppPreference
+        app:componentName="eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-Material"
+        android:title="Chainfire's SuperSu App"
+        android:summary="Manage root permissions for apps and services"/>
+        -->
+
+    <PreferenceCategory android:title="King Rom Apps">
+        <com.wubydax.romcontrol.v2.prefs.OpenAppPreference
+            app:componentName="com.boostermbkking.kingroms7edge/com.boostermbkking.kingroms7edge.MainActivity"
+            android:title="KING ROM S7 EDGE"
+            android:icon="@drawable/ks7"
+            android:summary="Download Mod and Tweaks for KING ROM"/>
+
+        <com.wubydax.romcontrol.v2.prefs.OpenAppPreference
+            app:componentName="com.three.minit.minitbatterysettings.free/com.three.minit.minitbatterysettings.MainActivity"
+            android:title="3Minit Battery"
+            android:summary="Manage Battery Icon in StatusBar"/>
+
+        <com.wubydax.romcontrol.v2.prefs.OpenAppPreference
+            app:componentName="com.potato.clock.main/com.potato.clock.main.Main"
+            android:title="Potato Clock"
+            android:summary="Manage Clock Style in StatusBar"/>
+
+        <com.wubydax.romcontrol.v2.prefs.OpenAppPreference
+            app:componentName="com.wubydax.toolboxsettings/com.wubydax.toolboxsettings.ToolboxSettings"
+            android:title="ToolBox Settings"
+            android:icon="@drawable/toolbox"
+            android:summary="Manage apps in toolbox"/>
+
+        <com.wubydax.romcontrol.v2.prefs.OpenAppPreference
+            app:componentName="com.otaupdater/com.otaupdater.OTAUpdaterActivity"
+            android:title="OTA Updater"
+            android:summary="Manage OTA Updater"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Usefull Apps">
+        <com.wubydax.romcontrol.v2.prefs.OpenAppPreference
+            app:componentName="eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-Material"
+            android:title="SuperSU"
+            android:summary="Manage SU Permissions"/>
+
+        <com.wubydax.romcontrol.v2.prefs.OpenAppPreference
+            app:componentName="com.topjohnwu.magisk/com.topjohnwu.magisk.MainActivity"
+            android:title="Magisk Root"
+            android:summary="Enable or Disable SU Permissions"/>
+
+        <com.wubydax.romcontrol.v2.prefs.OpenAppPreference
+            app:componentName="org.vndnguyen.phoneinfo/org.vndnguyen.phoneinfo.main"
+            android:title="Phone Info"
+            android:summary="Info About Phone"/>
+
+        <com.wubydax.romcontrol.v2.prefs.OpenAppPreference
+            app:componentName="com.asksven.betterbatterystats_xdaedition/com.asksven.betterbatterystats.StatsActivity"
+            android:title="BetterBatteryStats"
+            android:summary="Info about Battery Drain"/>
+
+        <com.wubydax.romcontrol.v2.prefs.OpenAppPreference
+            app:componentName="mobi.xperiacle.upsm.manager/mobi.xperiacle.upsm.manager.MainActivity"
+            android:title="UPSM Manager"
+            android:summary="Add more app to UPSM Mode"/>
+
+        <!--<com.wubydax.romcontrol.v2.prefs.OpenAppPreference
+            app:componentName="com.wubydax.geartwswipe/com.wubydax.geartwswipe.SetAppActivity"
+            android:title="6thGear TW-Swipe Launcher"
+            android:summary="Start app for Launcher Swipe"/>
+
+        <com.wubydax.romcontrol.v2.prefs.OpenAppPreference
+            app:componentName="com.wubydax.geartwswipe/com.wubydax.geartwswipe.ResetDialogActivity"
+            android:title="6thGear TW-Swipe RESET"
+            android:summary="Set app for Launcher Swipe"/>-->
+
+        <com.wubydax.romcontrol.v2.prefs.OpenAppPreference
+            app:componentName="com.af.synapse/com.af.synapse.MainActivity"
+            android:title="Synapse"
+            android:summary="Manage Kernel Settings"/>-->
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Sound Control">
+        <com.wubydax.romcontrol.v2.prefs.OpenAppPreference
+            app:componentName="com.atmos.daxappUI/com.atmos.daxappUI.MainActivity"
+            android:title="Dolby Atmos"
+            android:summary="Set Audio Filter for KING ROM"/>
+
+        <com.wubydax.romcontrol.v2.prefs.OpenAppPreference
+            app:componentName="com.vipercn.viper4android_v2/com.vipercn.viper4android_v2.activity.ViPER4Android"
+            android:title="Viper4Android"
+            android:summary="Set Audio Filter for KING ROM"/>
+    </PreferenceCategory>
+
+</PreferenceScreen>
