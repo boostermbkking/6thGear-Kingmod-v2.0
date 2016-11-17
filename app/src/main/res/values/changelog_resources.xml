@@ -9,41 +9,16 @@
     This order is how they will appear in the dialog
     Make any order you want from top to bottom-->
     <string-array name="changelog_items">
-        <item>BASED ON NEW BPH6 FIRMWARE</item>
+        <item>BASED ON NEW BPJ7 FIRMWARE</item>
         <item>ALL MOD FROM PREVIOUS VERSION</item>
-        <item>ADD ANTI-KANG MODE</item>
-        <item>ADD Wipe Options in AROMA</item>
-        <item>ADD AIR MESSAGE</item>
-        <item>ADD KING BOOTANIMATION</item>
-        <item>ADD Prometheus kernel 1.5.2 patched</item>
-        <item>ADD GRACE UX Apps</item>
-        <item>ADD Camera Mod v4</item>
-        <item>ADD Floating Keyboard</item>
-        <item>ADD Disable USB WakeUp in KING MOD</item>
-        <item>ADD SETTING TEXT COLOR IN KING MOD</item>
-        <item>ADD NEW TRAFFIC METER</item>
-        <item>ADD DEVICE INFO in NOTIFICATION</item>
-        <item>ADD NEW GRADIENT MENU</item>
-        <item>ADD TOUCHWIZ GESTURE</item>
-        <item>ADD LOCKSCREEN ROTATION</item>
-        <item>ADD NOTE7 CAMERA IN AROMA</item>
-        <item>UPDATE AROMA INSTALLER</item>
-        <item>UPDATE 3minit battery settings</item>
-        <item>UPDATE ITV CSC to BPH1</item>
-        <item>UPDATE KING MOD</item>
-        <item>UPDATE GPU LIBS</item>
-        <item>REMOVED Jesse kernel</item>
-        <item>REMOVED POTATO GRADIENT</item>
-        <item>REMOVED OLD TRAFFIC METER</item>
-        <item>FIXED DeviceTest</item>
-        <item>FIXED SCREEN OVERLAY</item>
+        <item>BUG FIX</item>
         <item>AND MUCH MORE...</item>
     </string-array>
 
     <!--This will be the dialog title.
     Put your own rom version and name.
     Have fun-->
-    <string name="rom_version_for_changelog">KING ROM S7 EDGE V11</string>
+    <string name="rom_version_for_changelog">KING ROM S7 EDGE V14</string>
 
 
 </resources>
